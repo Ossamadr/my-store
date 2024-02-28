@@ -6,6 +6,7 @@
 body {
   font-family: "Cairo", sans-serif;
   background: linear-gradient(#ffffff, #eae9e9);
+  height: 120vh;
 }
 .error-message {
   font-size: 12px;
@@ -69,7 +70,7 @@ form {
   position: relative;
   padding: 10px 22px;
   width: 150px;
-  height: 40px;
+  height: auto;
   border-radius: 6px;
   border: none;
   color: #fff;
